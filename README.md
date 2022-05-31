@@ -1,3 +1,6 @@
+<p align="center" width="100%">
+  <img alt="Coding" width="300" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
+</p>
 <h1 align="center">Hi 👋, I'm Srijita Sengupta</h1>
 <h3 align="center">A passionate Front-end developer trying to fix bugs in production and in her life.</h3>
 
