@@ -26,11 +26,11 @@
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Graph
 <img style="margin-top:15px" src="https://activity-graph.herokuapp.com/graph?username=srijit-ops&theme=rogue" alt="graph"/>
-## 📈 Stats
+## <img src="https://i.pinimg.com/originals/a6/c2/47/a6c247e6667eebefee85d1e38803b446.gif" width="30px" style="margin-bottom:15px"> Stats
 <a href="#">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=srijit-ops&show_icons=true&count_private=true&theme=github_dark&bg_color=00000000&border_radius=6px&border_color=30363d" width="50.5%" />
 </a>
-<a href="#" style="margin-bottom:15px">
+<a href="#" >
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=srijit-ops&count_private=true&theme=github_dark&layout=compact&bg_color=00000000&border_radius=6px&border_color=30363d" width="42%" />
 </a>
 <br/>
