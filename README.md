@@ -5,7 +5,7 @@
 
 <h3 align="center">Hi 👋, I'm Srijita Sengupta, a passionate Front-end developer trying to fix bugs in production and in her life.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=srijit-ops&label=Profile%20views&color=0e75b6&style=flat" alt="srijit-ops" /> </p>
+
 
 - 👀 I’m interested in **learning new emerging technologies and building real-world applications.**
 
@@ -16,6 +16,11 @@
 - 📫 How to reach me **srijitasengupta23@gmail.com**
 
 - ⚡ Fun fact **Learn C++ - for college, Java - for showoff and JavaScript - for fun!**
+
+<p align="center">   
+    <img src="https://komarev.com/ghpvc/?username=srijit-ops"> &nbsp; 
+    <img src="https://badges.pufler.dev/repos/srijit-ops?style=flat-square&color=black&logo=github"/>
+</p>
 
 ## 🤝 Connect with me:
 <p align="left">
