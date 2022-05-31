@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **srijitasengupta23@gmail.com**
 
-- ⚡ Fun fact **Learn C++ - for college, Java - for showoff and JavaScript - for fun!**
+- ⚡ Fun fact **Learn C++ - for college, Java - for showoff and JavaScript - for fun and money!**
 
 <p align="center">   
     <img src="https://komarev.com/ghpvc/?username=srijit-ops"> &nbsp; 
