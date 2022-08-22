@@ -3,7 +3,7 @@
 </p>
 <h1> 👨‍💻 Profile </h1>
 
-<h3 align="center">Hi 👋, I'm Srijita Sengupta, a passionate Front-end developer trying to fix bugs in production and in her life.</h3>
+<h3 align="center">Hi 👋, I'm Srijita Sengupta, a zealous Front-end developer who knows the subtle art of not giving a bug.</h3>
 
 
 
@@ -25,6 +25,7 @@
 ## 🤝 Connect with me:
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/srijita-sengupta-0561a81b5/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/srijita-sengupta-0561a81b5/" height="30" width="40" /></a>
+<a href="https://twitter.com/srijita_11" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Twitter-logo.svg/1200px-Twitter-logo.svg.png" alt="https://twitter.com/srijita_11" height="30" width="40" /></a>
 </p>
 
 ## ⚡ Languages and Tools:
